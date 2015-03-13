@@ -1,6 +1,5 @@
-Your Name Chao-Hung Chen  
-Your Andrew ID chaohunc
-Final Report
+Learning to Rank Report 
+@Author Chao-Hung Chen
 
 1 Experiment:  Baselines
 BM25_Indri BOW_Indri SDM
